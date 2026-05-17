@@ -1,0 +1,100 @@
+{
+  "documents": [
+    {
+      "title": "Lean Startup",
+      "concepts": [
+        {
+          "name": "Validated Learning",
+          "keywords": [
+            "validated learning",
+            "value",
+            "waste",
+            "product\u2011market fit",
+            "quick experiments"
+          ],
+          "description": "Startups create value by rapidly learning what customers truly want, not by building products. By focusing on experiments that generate data, founders avoid building wasteful features and instead validate assumptions about business sustainability."
+        },
+        {
+          "name": "Small Batches / Just\u2011in\u2011Time Experiments",
+          "keywords": [
+            "small batches",
+            "single\u2011piece flow",
+            "just\u2011in\u2011time",
+            "rapid testing"
+          ],
+          "description": "Using the lean manufacturing principle of single\u2011piece flow, startups conduct experiments in tiny batches. This reduces inventory, exposes defects early, and allows quicker iteration without large upfront planning."
+        },
+        {
+          "name": "Growth Engine Focus",
+          "keywords": [
+            "growth engines",
+            "paid",
+            "viral",
+            "sticky",
+            "metrics"
+          ],
+          "description": "Sustainable growth follows one of three engines\u2014paid, viral, or sticky. By identifying the dominant engine, a startup directs resources to the most effective metrics and experiments."
+        },
+        {
+          "name": "Lean Organizational Design",
+          "keywords": [
+            "cross\u2011functional",
+            "agility",
+            "adaptive organization",
+            "process balance"
+          ],
+          "description": "Traditional departmental incentives are replaced by lean structures that foster collaboration and keep teams nimble. A balance of minimal process and empowerment prevents bureaucratic slow\u2011downs while scaling."
+        },
+        {
+          "name": "Innovation Accounting",
+          "keywords": [
+            "innovation accounting",
+            "metrics",
+            "pivot",
+            "learning milestones"
+          ],
+          "description": "Innovation accounting turns learning outcomes into measurable metrics. It helps founders detect when growth risks stall and decide to pivot or persevere."
+        },
+        {
+          "name": "Continuous Improvement Tools",
+          "keywords": [
+            "Five Whys",
+            "root cause",
+            "lean tools"
+          ],
+          "description": "Techniques like the Five Whys help teams investigate problems quickly, avoiding bureaucracy and maintaining functional health during growth."
+        },
+        {
+          "name": "Scaling While Maintaining DNA",
+          "keywords": [
+            "scaling",
+            "entrepreneurial DNA",
+            "operational excellence",
+            "agility"
+          ],
+          "description": "Even as a startup matures, a lean foundation allows it to grow into a lean enterprise that retains its speed, learning orientation, and culture of innovation."
+        },
+        {
+          "name": "Portfolio Management of Innovation",
+          "keywords": [
+            "sustainable innovation",
+            "disruptive innovation",
+            "incubation",
+            "parallel work"
+          ],
+          "description": "Established companies must manage both incremental and disruptive projects simultaneously. Incubating innovation teams inside the enterprise keeps the entrepreneurial spirit alive."
+        },
+        {
+          "name": "Waste Not Culture",
+          "keywords": [
+            "waste reduction",
+            "lean thinking",
+            "historical context",
+            "future direction"
+          ],
+          "description": "The Lean Startup movement encourages continual waste elimination, learning from past industrial movements, and setting a future path for ongoing improvement."
+        }
+      ]
+    }
+  ]
+}
